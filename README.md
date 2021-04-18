@@ -10,6 +10,6 @@
 [7] [Naive Bayes Classifier] <br>
 [8] [K-Means clustering] <br>
 [9] [Principal Component Analysis]<br>
-[10] [Neural Networks] (https://github.com/nsojib/ML_Notes/tree/main/neural_networks)<br>
-	 * [perceptron] (https://github.com/nsojib/ML_Notes/tree/main/perceptron)<br>
+[10] [Neural Networks](https://github.com/nsojib/ML_Notes/tree/main/neural_networks)<br>
+	 * [perceptron](https://github.com/nsojib/ML_Notes/tree/main/neural_networks/perceptron)<br>
 
