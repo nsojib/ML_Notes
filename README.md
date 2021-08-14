@@ -8,7 +8,7 @@
 [5] [Random Forest]<br>
 [6] [Support Vector Machine](https://github.com/nsojib/ML_Notes/tree/main/svm) <br>
 [7] [Naive Bayes Classifier] <br>
-[8] [K-Means clustering] <br>
+[8] [K-Means clustering](https://github.com/nsojib/ML_Notes/tree/main/k_means) <br>
 [9] [Principal Component Analysis]<br>
 [10] [Neural Networks](https://github.com/nsojib/ML_Notes/tree/main/neural_networks)<br>
 * [perceptron](https://github.com/nsojib/ML_Notes/tree/main/neural_networks/perceptron)<br>
